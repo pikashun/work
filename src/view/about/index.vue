@@ -1,22 +1,14 @@
 <!--
  * @Author: your name
- * @Date: 2022-03-25 16:26:03
- * @LastEditTime: 2022-03-28 09:48:26
+ * @Date: 2022-03-29 09:05:31
+ * @LastEditTime: 2022-03-29 09:05:31
  * @LastEditors: Please set LastEditors
  * @Description: 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
- * @FilePath: \work\src\view\index\index.vue
+ * @FilePath: \work\src\view\about\index.vue
 -->
 <template>
-    <div class="home-container">
-      <div class="left-tree">
-         <el-button>
+    <div>
 
-         </el-button>
-        
-      </div>
-      <div class="main">
-
-      </div>
     </div>
 </template>
 <script>
